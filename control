@@ -1,0 +1,11 @@
+Package: com.creaturecoding.prefstest
+Name: prefsTest
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Preferences Library!
+Maintainer: CreatureSurvive
+Depiction: https://creaturesurvive.github.io/CSPreferences/
+Author: CreatureSurvive
+Section: Test
+Tag: role::developer

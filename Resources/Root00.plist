@@ -1,0 +1,65 @@
+<!--
+@Author: Dana Buehre <creaturesurvive>
+@Date:   01-07-2017 10:49:52
+@Email:  dbuehre@me.com
+@Project: motuumLS
+@Filename: Root.plist
+@Last modified by:   creaturesurvive
+@Last modified time: 21-07-2017 3:37:13
+@Copyright: Copyright © 2014-2017 CreatureSurvive
+-->
+
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
+	<dict>
+		<key>title</key>
+		<string>Another Page</string>
+		<key>items</key>
+		<array>
+
+			<dict>
+				<key>cell</key>
+				<string>PSLinkCell</string>
+				<key>cellClass</key>
+				<string>CSPDeveloperCell</string>
+				<key>action</key>
+				<string>openInBrowser:</string>
+				<key>username</key>
+				<string>CreatureSurvive</string>
+				<key>provider</key>
+				<string>0</string>
+				<key>height</key>
+				<string>81</string>
+				<key>devName</key>
+				<string>CreatureSurvive</string>
+				<key>devTitle</key>
+				<string>Dana Buehre</string>
+				<key>devSubtitle</key>
+				<string>Developer/Designer</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSLinkCell</string>
+				<key>cellClass</key>
+				<string>CSPDeveloperCell</string>
+				<key>action</key>
+				<string>openInBrowser:</string>
+				<key>username</key>
+				<string>CreatureSurvive</string>
+				<key>provider</key>
+				<string>1</string>
+				<key>height</key>
+				<string>81</string>
+				<key>devName</key>
+				<string>CreatureSurvive</string>
+				<key>devTitle</key>
+				<string>Dana Buehre</string>
+				<key>devSubtitle</key>
+				<string>Developer/Designer</string>
+			</dict>
+
+		</array>
+	</dict>
+</plist>

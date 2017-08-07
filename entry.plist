@@ -1,0 +1,12 @@
+{
+  entry = {
+	bundle = prefsTest;
+	cell = PSLinkCell;
+	detail = CSPListController;
+	icon = icon.png;
+	isController = 1;
+	label = prefsTest;
+  headerTitle = "prefsTest";
+  headerSubtitle = "by: CreatureSurvive";
+    };
+}
